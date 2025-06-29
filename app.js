@@ -97,7 +97,7 @@ function Tocar(){
     }
 }
 
-function AudioNum(num){//tipo de retorno execução
+function AudioNum(num){//nome=AudioNum, propriedade=tipo de retorno, tempo=execução
     if(num < 0){
         negativo = 1;
         num = (num)*(-1);
